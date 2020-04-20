@@ -94,6 +94,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoValidate = System.Windows.Forms.AutoValidate.EnablePreventFocusChange;
             this.BackColor = System.Drawing.SystemColors.ControlText;
             this.ClientSize = new System.Drawing.Size(400, 99);
             this.Controls.Add(this.textBox1);
@@ -109,7 +110,7 @@
             this.ShowIcon = false;
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Discord Activity Text Change";
+            this.Text = "Discord Activity Text Changer";
             this.TopMost = true;
             this.ResumeLayout(false);
             this.PerformLayout();

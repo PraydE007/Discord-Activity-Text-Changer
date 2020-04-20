@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0F34837B-8576-4C35-A0B9-155C239E2010}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Discord_Activity_Text_Change</RootNamespace>
-    <AssemblyName>Discord Activity Text Change</AssemblyName>
+    <RootNamespace>Discord_Activity_Text_Changer</RootNamespace>
+    <AssemblyName>Discord Activity Text Changer</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

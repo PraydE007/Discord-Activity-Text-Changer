@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord Activity Text Change", "Discord Activity Text Change\Discord Activity Text Change.csproj", "{0F34837B-8576-4C35-A0B9-155C239E2010}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord Activity Text Changer", "Discord Activity Text Change\Discord Activity Text Changer.csproj", "{0F34837B-8576-4C35-A0B9-155C239E2010}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
